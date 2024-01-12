@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acme.Core.Tests", "..\..\te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acme.App.Wpf", "..\Acme.App.Wpf\Acme.App.Wpf.csproj", "{A3861BE9-C360-4DFF-8EA7-4B2A47799BF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.App.Maui", "..\Acme.App.Maui\Acme.App.Maui.csproj", "{54989B85-458A-4AF2-ADF2-1832263728AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +117,30 @@ Global
 		{A3861BE9-C360-4DFF-8EA7-4B2A47799BF8}.Release|x64.Build.0 = Release|Any CPU
 		{A3861BE9-C360-4DFF-8EA7-4B2A47799BF8}.Release|x86.ActiveCfg = Release|Any CPU
 		{A3861BE9-C360-4DFF-8EA7-4B2A47799BF8}.Release|x86.Build.0 = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|ARM64.Deploy.0 = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|x64.Build.0 = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|x64.Deploy.0 = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|x86.Build.0 = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|ARM64.Build.0 = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|ARM64.Deploy.0 = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|x64.ActiveCfg = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|x64.Build.0 = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|x64.Deploy.0 = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|x86.ActiveCfg = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|x86.Build.0 = Release|Any CPU
+		{54989B85-458A-4AF2-ADF2-1832263728AD}.Release|x86.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

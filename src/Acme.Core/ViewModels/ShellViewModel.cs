@@ -20,6 +20,9 @@ namespace Acme.Core.ViewModels
         private Video _selectedVideo;
 
         [ObservableProperty]
+        private int _selectedVideoIndex;
+
+        [ObservableProperty]
         private IEnumerable<Video> _videos;
 
         public ShellViewModel(IVideoService service, ILoggerProvider loggerProvider, IDialogService dialogService)
@@ -46,6 +49,9 @@ namespace Acme.Core.ViewModels
                 await Task.Delay(2000);
 
                 Videos = videos;
+                SelectedVideo = Videos.FirstOrDefault();
+                MovePrevCommand.NotifyCanExecuteChanged();
+                MoveNextCommand.NotifyCanExecuteChanged();
             }
             catch (Exception ex)
             {
@@ -67,5 +73,11 @@ namespace Acme.Core.ViewModels
 
         [RelayCommand(CanExecute = nameof(CanMovePrev))]
         private void MovePrev(int index) => SelectedVideo = Videos.ElementAtOrDefault(index - 1);
+
+        partial void OnSelectedVideoChanged(Video value)
+        {
+            SelectedVideoIndex = Videos.Select((v, i) => new { Video = v, Index = i })
+                                       .FirstOrDefault(v => v.Video == value)?.Index ?? -1;
+        }
     }
 }
