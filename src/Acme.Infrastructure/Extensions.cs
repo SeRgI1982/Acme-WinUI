@@ -11,8 +11,8 @@ namespace Acme.Infrastructure
         {
             services.AddSingleton<IMapper>(new Mapper(new MapperConfiguration(cfg => cfg.AddProfile<InfrastructureMappingProfile>())))
                     //.AddSingleton<IVideoRepository, InMemoryVideoRepository>()
-                    .AddSingleton<IVideoRepository, WebApiVideoRepository>()
-                    .AddHttpClient<IVideoRepository, WebApiVideoRepository>(client => client.BaseAddress = new Uri(@"https://assets.acmeaom.com/"));
+                    .AddSingleton<IVideoRepository, FileVideoRepository>();
+                    //.AddHttpClient<IVideoRepository, WebApiVideoRepository>(client => client.BaseAddress = new Uri(@"https://assets.acmeaom.com/"));
             return services;
         }
     }

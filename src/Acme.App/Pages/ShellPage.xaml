@@ -46,13 +46,13 @@
             <Setter Property="VerticalAlignment" Value="Center" />
         </Style>
 
-        <Style x:Name="TitleStyle" TargetType="TextBlock">
+        <Style x:Key="TitleStyle" TargetType="TextBlock">
             <Setter Property="FontSize" Value="20" />
             <Setter Property="FontWeight" Value="SemiBold" />
             <Setter Property="Foreground" Value="Black" />
         </Style>
 
-        <Style x:Name="SubTitleStyle" TargetType="TextBlock">
+        <Style x:Key="SubTitleStyle" TargetType="TextBlock">
             <Setter Property="FontSize" Value="14" />
             <Setter Property="FontWeight" Value="Normal" />
             <Setter Property="Foreground" Value="Gray" />

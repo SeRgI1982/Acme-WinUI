@@ -1,0 +1,105 @@
+[
+    {
+        "title": "The Wizard Of Oz",
+        "bulletText": "Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz",
+        "description": "A young girl travels to a far away land and kills the first person she meets. She than teams up with three others and sets out to kill again",
+        "runningTime": 6060,
+        "id": "tt0032138",
+        "artUrl": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "related": [
+            "tt0076759",
+            "tt0067992"
+        ]
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "bulletText": "Rami Malek stars as Freddie Mercury in this electrifying story of the meteoric rise of Queen to rock-and-roll stardom.",
+        "description": "In 1970s London, the poor baggage handler at Heathrow Airport--the fiercely ambitious and talented Indian Parsi refugee, Farrokh Bulsara--sees a golden opportunity when the lead singer of the local band, Smile, decides to quit. With an incredible vocal range and a new name, the humble Zanzibar boy becomes Freddie Mercury--and along with the guitarist, Brian May; the drummer, Roger Taylor, and the bassist, John Deacon--they form the extremely successful British rock band, Queen. However, against the backdrop of the towering fame, the irrevocable bad decisions, and the fateful AIDS diagnosis, the Queen will have to reunite just in the nick of time for an extraordinary twenty-minute appearance at London's Wembley Stadium, during the 1985 Live Aid (1985) concert.",
+        "runningTime": 8040,
+        "id": "tt1727824",
+        "artUrl": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg",
+        "related": [
+            "tt2066051",
+            "tt0080549"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "bulletText": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station",
+        "description": "The Imperial Forces, under orders from cruel Darth Vader, hold Princess Leia hostage in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker and Han Solo, captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 and C-3PO to rescue the beautiful princess, help the Rebel Alliance and restore freedom and justice to the Galaxy",
+        "runningTime": 7260,
+        "id": "tt0076759",
+        "artUrl": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "related": [
+            "tt0080684",
+            "tt0086190"
+        ]
+    },
+    {
+        "title": "Rocketman",
+        "bulletText": "Based on a True Fantasy",
+        "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.",
+        "runningTime": 7260,
+        "id": "tt2066051",
+        "artUrl": "https://m.media-amazon.com/images/M/MV5BYTJmMzc0YTctYmQzOS00YWJjLTgzMmEtYjE1NzA1N2QyYzE3XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "related": [
+            "tt1727824"
+        ]
+    },
+    {
+        "title": "Coal Miner's Daughter",
+        "bulletText": "She was married at 13. She had four kids by the time she was 20. She's been hungry and poor. She's been loved and cheated on. She became a singer because it was the only thing she could do. She became a star because it was the only way she could do it.",
+        "description": "At only 13, Loretta Webb marries Doolittle Lynn and is soon responsible for a large family. She appears destined to a life of homemaking, but Doolittle recognizes his wife's musical talent, and buys her a guitar as an anniversary present one year. At 18, the busy mother of four children still finds time to write and sing songs at small fairs and local honky-tonks. This gift sets Loretta Lynn on the grueling, tumultuous path to superstardom and country-music greatness.",
+        "runningTime": 0,
+        "id": "tt0080549",
+        "artUrl": "https://m.media-amazon.com/images/M/MV5BNzg1ZDg0ZDgtOGQzNi00Y2IyLTg2YzQtY2U1N2E4MjQzMjhiXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "related": [
+            "tt1727824"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "bulletText": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader. ",
+        "description": "Luke Skywalker, Han Solo, Princess Leia and Chewbacca face attack by the Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only with the Jedi Master's help will Luke survive when the Dark Side of the Force beckons him into the ultimate duel with Darth Vader.",
+        "runningTime": 7440,
+        "id": "tt0080684",
+        "artUrl": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "related": [
+            "tt0076759",
+            "tt0086190",
+            "tt0379786"
+        ]
+    },
+    {
+        "title": "Serenity",
+        "bulletText": "The crew of the ship Serenity try to evade an assassin sent to recapture one of their members who is telepathic. ",
+        "description": "In the future, a spaceship called Serenity is harboring a passenger with a deadly secret. Six rebels on the run. An assassin in pursuit. When the renegade crew of Serenity agrees to hide a fugitive on their ship, they find themselves in an awesome action-packed battle between the relentless military might of a totalitarian regime who will destroy anything - or anyone - to get the girl back and the bloodthirsty creatures who roam the uncharted areas of space. But, the greatest danger of all may be on their ship.",
+        "runningTime": 7140,
+        "id": "tt0379786",
+        "artUrl": "https://m.media-amazon.com/images/M/MV5BOWE2MDAwZjEtODEyOS00ZjYyLTgzNDUtYmNiY2VmNWRiMTQxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "related": []
+    },
+    {
+        "title": "Willy Wonka & the Chocolate Factory",
+        "bulletText": "A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory. ",
+        "description": "The world is astounded when Willy Wonka, for years a recluse in his factory, announces that five lucky people will be given a tour of the factory, shown all the secrets of his amazing candy, and one will win a lifetime supply of Wonka chocolate. Nobody wants the prize more than young Charlie, but as his family is so poor that buying even one bar of chocolate is a treat, buying enough bars to find one of the five golden tickets is unlikely in the extreme. But in movieland, magic can happen. Charlie, along with four somewhat odious other children, get the chance of a lifetime and a tour of the factory. Along the way, mild disasters befall each of the odious children, but can Charlie beat the odds and grab the brass ring?",
+        "runningTime": 6000,
+        "id": "tt0067992",
+        "artUrl": "https://m.media-amazon.com/images/M/MV5BZTllNDU0ZTItYTYxMC00OTI4LThlNDAtZjNiNzdhMWZiYjNmXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "related": [
+            "tt0032138"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "bulletText": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap. ",
+        "description": "Luke Skywalker battles Jabba the Hutt and Darth Vader to save his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo and Princess Leia reaffirm their love, and team with Chewbacca, Lando Calrissian, the Ewoks, and droids C-3PO and R2-D2 to aid in the disruption of the Dark Side, and the defeat of the evil emperor. ",
+        "runningTime": 7860,
+        "id": "tt0086190",
+        "artUrl": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "related": [
+            "tt0080684",
+            "tt0076759"
+        ]
+    }
+]
