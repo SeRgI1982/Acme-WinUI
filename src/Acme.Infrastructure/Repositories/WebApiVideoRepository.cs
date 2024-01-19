@@ -23,7 +23,7 @@ namespace Acme.Infrastructure.Repositories
 
         public async Task<IEnumerable<Video>> GetVideosAsync()
         {
-            string requestUri = $"interview-project/uwpvideos.json";
+            string requestUri = "videos.json";
             var result = await _client.GetFromJsonAsync<List<VideoDto>>(requestUri);
             var dtos = result ?? new List<VideoDto>();
             var models = _mapper.Map<IEnumerable<Video>>(dtos);
